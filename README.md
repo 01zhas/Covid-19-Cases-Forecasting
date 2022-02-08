@@ -7,3 +7,4 @@
 * Подготавливаем данные для загрузки в модель fbprophet
 * Обучаем модель fbprophet
 * Оценка эффективности модели
+[Интерактивная карта](https://htmlpreview.github.io/?https://github.com/01zhas/Covid-19-Cases-Forecasting/blob/master/map.html)
